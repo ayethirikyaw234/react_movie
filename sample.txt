@@ -1,0 +1,8 @@
+Api Key=> 8bd799c04056fc7bb9aeadee148491d2
+
+Api=>https://api.themoviedb.org/3/movie/top_rated?api_key=8bd799c04056fc7bb9aeadee148491d2
+
+https://api.themoviedb.org/3/movie/{movie_id}
+
+
+https://api.themoviedb.org/3/search/movie?query=SEARCH_DATA&api_key=8bd799c04056fc7bb9aeadee148491d2
